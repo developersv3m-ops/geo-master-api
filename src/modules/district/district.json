@@ -1,0 +1,452 @@
+[
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Agra",
+    "districtCode": "AG",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Aligarh",
+    "districtCode": "AL",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Ambedkar Nagar",
+    "districtCode": "AN",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Amethi",
+    "districtCode": "AM",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Amroha",
+    "districtCode": "AR",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Auraiya",
+    "districtCode": "AU",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Ayodhya",
+    "districtCode": "AY",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Azamgarh",
+    "districtCode": "AZ",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Baghpat",
+    "districtCode": "BA",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Bahraich",
+    "districtCode": "BH",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Ballia",
+    "districtCode": "BL",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Balrampur",
+    "districtCode": "BP",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Banda",
+    "districtCode": "BN",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Barabanki",
+    "districtCode": "BB",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Bareilly",
+    "districtCode": "BR",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Basti",
+    "districtCode": "BS",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Bhadohi",
+    "districtCode": "BD",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Bijnor",
+    "districtCode": "BI",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Budaun",
+    "districtCode": "BU",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Bulandshahr",
+    "districtCode": "BSH",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Chandauli",
+    "districtCode": "CH",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Chitrakoot",
+    "districtCode": "CK",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Deoria",
+    "districtCode": "DE",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Etah",
+    "districtCode": "ET",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Etawah",
+    "districtCode": "EW",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Farrukhabad",
+    "districtCode": "FA",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Fatehpur",
+    "districtCode": "FT",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Firozabad",
+    "districtCode": "FI",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Gautam Buddha Nagar",
+    "districtCode": "GB",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Ghaziabad",
+    "districtCode": "GZ",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Ghazipur",
+    "districtCode": "GP",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Gonda",
+    "districtCode": "GD",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Gorakhpur",
+    "districtCode": "GK",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Hamirpur",
+    "districtCode": "HM",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Hapur",
+    "districtCode": "HP",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Hardoi",
+    "districtCode": "HD",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Hathras",
+    "districtCode": "HT",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Jalaun",
+    "districtCode": "JL",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Jaunpur",
+    "districtCode": "JP",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Jhansi",
+    "districtCode": "JH",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Kannauj",
+    "districtCode": "KJ",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Kanpur Dehat",
+    "districtCode": "KD",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Kanpur Nagar",
+    "districtCode": "KN",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Kasganj",
+    "districtCode": "KS",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Kaushambi",
+    "districtCode": "KA",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Kushinagar",
+    "districtCode": "KU",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Lakhimpur Kheri",
+    "districtCode": "LK",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Lalitpur",
+    "districtCode": "LT",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Lucknow",
+    "districtCode": "LU",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Maharajganj",
+    "districtCode": "MJ",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Mahoba",
+    "districtCode": "MH",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Mainpuri",
+    "districtCode": "MN",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Mathura",
+    "districtCode": "MA",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Mau",
+    "districtCode": "MU",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Meerut",
+    "districtCode": "ME",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Mirzapur",
+    "districtCode": "MI",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Moradabad",
+    "districtCode": "MO",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Muzaffarnagar",
+    "districtCode": "MZ",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Pilibhit",
+    "districtCode": "PI",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Pratapgarh",
+    "districtCode": "PT",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Prayagraj",
+    "districtCode": "PR",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Raebareli",
+    "districtCode": "RB",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Rampur",
+    "districtCode": "RP",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Saharanpur",
+    "districtCode": "SA",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Sambhal",
+    "districtCode": "SM",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Sant Kabir Nagar",
+    "districtCode": "SK",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Shahjahanpur",
+    "districtCode": "SJ",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Shamli",
+    "districtCode": "SH",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Shrawasti",
+    "districtCode": "SW",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Siddharthnagar",
+    "districtCode": "SD",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Sitapur",
+    "districtCode": "SI",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Sonbhadra",
+    "districtCode": "SO",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Sultanpur",
+    "districtCode": "SU",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Unnao",
+    "districtCode": "UN",
+    "createdBy": "6ab260766c252167892bfe24"
+  },
+  {
+    "stateId": "6ab261a4cf5b0eae7f03747e",
+    "districtName": "Varanasi",
+    "districtCode": "VA",
+    "createdBy": "6ab260766c252167892bfe24"
+  }
+]
